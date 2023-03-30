@@ -16,7 +16,7 @@ body {
     padding: 24px 0;
 }
 
-.cabecalho-menu-item{
+.cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
@@ -29,6 +29,6 @@ body {
     justify-content: center;
 }
 
-.conteudo-principal-escrito {
+.conteudo-principal-escrito-subtitulo{
     width: 35%;
 }
