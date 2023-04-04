@@ -21,7 +21,11 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    padding: 24px 0;
+    padding: 24px;
+}
+
+.cabecalho-imagem {
+    height: 72px;
 }
 
 .cabeçalho-menu {
@@ -36,6 +40,8 @@ body {
     font-size: 18px;
     justify-items: end;
 }
+
+
 
 .conteudo{
     margin-bottom: 45px;
