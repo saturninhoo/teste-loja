@@ -3,13 +3,6 @@
     padding: 0;
 }
 
-.conteudo{
-    background: linear-gradient(90deg, rgba(229,231,155,1) 0%, rgba(223,184,171,1) 53%, rgba(152,245,130,1) 100%);
-    color: white;
-    display: flex;
-    justify-content: center;
-}
-
 body {
     font-size: 100%;
     font-family: 'Poppins', sans-serif;
@@ -40,8 +33,6 @@ body {
     font-size: 18px;
     justify-items: end;
 }
-
-
 
 .conteudo{
     margin-bottom: 45px;
