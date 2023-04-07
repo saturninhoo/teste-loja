@@ -97,10 +97,9 @@ body {
 
 .conteudo-secundario {
     display: grid;
+    flex-direction: row;
+    align-items: end;
     justify-content: end;
-    display: flex;
-    flex-direction: column;
-
 }
 
 .conteudo-secundario-imagem {
