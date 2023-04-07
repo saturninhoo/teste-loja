@@ -97,7 +97,7 @@ body {
 
 .conteudo-secundario {
     display: flex;
-    flex-direction: column;
+    align-content: end;
     align-items: center;
     gap: 20px;
     margin-top: 50px;
