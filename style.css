@@ -96,9 +96,8 @@ body {
 }
 
 .conteudo-secundario {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end; 
+    display: grid;
+    justify-content: end;
 }
 
 .conteudo-secundario-imagem {
