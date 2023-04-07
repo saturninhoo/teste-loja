@@ -98,8 +98,6 @@ body {
 .conteudo-secundario {
     display: grid;
     justify-content: end;
-    display: flex;
-    justify-content: end;
 }
 
 .conteudo-secundario-imagem {
@@ -129,4 +127,6 @@ body {
     font-weight: 300;
     font-size: 18px;
     color: aliceblue;
+    display: flex;
+    flex-direction: column;
 }
