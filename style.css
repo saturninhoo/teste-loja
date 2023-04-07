@@ -98,6 +98,8 @@ body {
 .conteudo-secundario {
     display: grid;
     justify-content: end;
+    display: flex;
+    justify-content: end;
 }
 
 .conteudo-secundario-imagem {
