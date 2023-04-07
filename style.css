@@ -53,21 +53,21 @@ body {
     justify-content: space-around;
 }
 
-.conteudo-principal-escrito {
+.principal-escrito {
     display: flex;
     flex-direction: column;
     gap: 30px;
     width: 35%;
 }
 
-.conteudo-principal-escrito-titulo {
+.principal-escrito-titulo {
     font-weight: 300;
     font-size: 50px;
     color: #856965;
     justify-content: center;
 }
 
-.conteudo-principal-escrito-subtitulo {
+.principal-escrito-subtitulo {
     background-color: #ecd6c4;
     width: 180px;
     height: 60px;
@@ -79,7 +79,7 @@ body {
     align-content: space-around;
 }
 
-.conteudo-principal-escrito-botao {
+.principal-escrito-botao {
     background-color: #ecd6c4;
     width: 180px;
     height: 60px;
@@ -91,7 +91,7 @@ body {
     align-content: space-around;
 }
 
-.conteudo-principal-escrito-botao:hover {
+.principal-escrito-botao:hover {
     background-color: #97928a;
 }
 
