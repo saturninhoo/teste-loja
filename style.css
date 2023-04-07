@@ -100,6 +100,7 @@ body {
     flex-direction: row;
     align-items: end;
     justify-content: end;
+    height: 200;
 }
 
 .conteudo-secundario-imagem {
