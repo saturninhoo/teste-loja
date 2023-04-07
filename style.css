@@ -97,7 +97,8 @@ body {
 
 .conteudo-secundario {
     display: flex;
-    flex-direction: column; 
+    flex-direction: column;
+    justify-content: flex-end; 
 }
 
 .conteudo-secundario-imagem {
@@ -121,14 +122,10 @@ body {
     font-weight: 400;
     font-size: 24px;
     color: aliceblue;
-    display: grid;
-    justify-items: center;
 }
 
 .conteudo-secundario-paragrafo {
     font-weight: 300;
     font-size: 18px;
     color: aliceblue;
-    display: grid;
-    justify-content: space-around;
 }
