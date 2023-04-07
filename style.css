@@ -9,6 +9,7 @@ body {
     font-size: 100%;
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(90deg, rgba(229,231,155,1) 0%, rgba(223,184,171,1) 53%, rgba(152,245,130,1) 100%);
+}
 
 .cabecalho {
     display: flex;
@@ -18,17 +19,23 @@ body {
     padding: 24px 0;
 }
 
+.cabecalho-imagem {
+    padding: 15px 0;
+    margin: 24px;
+}
+
 .cabeçalho-menu {
     display: flex;
     gap: 30px;
 }
 
 .cabeçalho-menu-item {
-    font-family: 'Courier New', Courier, monospace;
     color: aliceblue;
     font-weight: 400;
-    font-size: 18px;
-    justify-items: end;
+    font-size: 20px;
+    justify-content: flex-end;
+    padding: 15px 0;
+    align-items: center;
 }
 
 .conteudo {
