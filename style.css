@@ -122,11 +122,13 @@ body {
     font-size: 24px;
     color: aliceblue;
     display: grid;
-    justify-items: end;
+    justify-items: center;
 }
 
 .conteudo-secundario-paragrafo {
     font-weight: 300;
     font-size: 18px;
     color: aliceblue;
+    display: grid;
+    justify-content: space-around;
 }
