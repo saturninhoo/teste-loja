@@ -80,22 +80,6 @@ body {
     align-content: space-around;
 }
 
-.principal-escrito-botao {
-    background-color: #ecd6c4;
-    width: 180px;
-    height: 60px;
-    border: none;
-    border-radius: 20px;
-    font-weight: 400;
-    font-size: 24px;
-    color: #97928a;
-    align-content: space-around;
-}
-
-.principal-escrito-botao:hover {
-    background-color: #97928a;
-}
-
 .conteudo-secundario {
     display: grid;
     flex-direction: row;
