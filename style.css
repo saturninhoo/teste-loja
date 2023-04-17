@@ -92,6 +92,10 @@ body {
     margin: 10px;
 }
 
+.maça {
+    background-color: black;
+}
+
 .conteudo-secundario-imagem {
     height: 400px;
 }
