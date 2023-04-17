@@ -109,11 +109,27 @@ body {
 }
 
 .mouusep {
-
+    background-color: #f0e7e0;
+    width: 180px;
+    height: 60px;
+    border: none;
+    border-radius: 20px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #000000;
+    align-content: space-around;
 }
 
 .hallowen {
-
+    background-color: #f0e7e0;
+    width: 180px;
+    height: 60px;
+    border: none;
+    border-radius: 20px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #000000;
+    align-content: space-around;
 }
 
 .conteudo-secundario-imagem {
