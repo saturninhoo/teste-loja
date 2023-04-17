@@ -82,10 +82,14 @@ body {
 
 .conteudo-secundario {
     display: grid;
-    flex-direction: row;
+    flex-direction: column;
     align-items: end;
     justify-content: end;
     margin: 400px;
+}
+
+.maça1 {
+    margin: 10px;
 }
 
 .conteudo-secundario-imagem {
@@ -120,6 +124,3 @@ body {
     width: 800px;
 }
 
-.conteudo-terciario {
-    
-}
