@@ -101,39 +101,15 @@ body {
 }
 
 .maçagranulada {
-    background-color: #f0e7e0;
-    width: 200px;
-    height: 100px;
-    border: none;
-    border-radius: 10px;
-    font-weight: 400;
-    font-size: 15px;
     color: #000000;
-    align-content: space-around;
 }
 
 .mouusep {
-    background-color: #f0e7e0;
-    width: 180px;
-    height: 60px;
-    border: none;
-    border-radius: 20px;
-    font-weight: 400;
-    font-size: 24px;
     color: #000000;
-    align-content: space-around;
 }
 
 .hallowen {
-    background-color: #f0e7e0;
-    width: 180px;
-    height: 60px;
-    border: none;
-    border-radius: 20px;
-    font-weight: 400;
-    font-size: 24px;
     color: #000000;
-    align-content: space-around;
 }
 
 .conteudo-secundario-imagem {
